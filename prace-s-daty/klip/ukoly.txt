@@ -1,0 +1,15 @@
+1. Zjistìte detailní informace o staženém videoklipu:
+    a) Jména interpretù i název hudební skupiny. 2CELLOS, Luka Šuliæ a Stjepan Hauser 
+    b) Název skladby. Game of Thrones
+    c) S jakým seriálem je tato skladba spojena? Kdo je autorem scénáøe? Game of Thrones,  David Benioff a D. B. Weiss
+    d) V kterém mìstì a státì se tento klip natáèel? Tušíte proè? Chorvatsko, protože jsou chorvati
+    
+2. Použijte pøehrávaè VLC a editor Audacity, abyste:
+    a) Zjistili základní údaje o daném videu: rozlišení, délku, použité kodeky (zvuk i obraz)
+rozlišení: 4k
+délka: 5:03
+kodeky zvuk:AAC	
+kodeky obraz:VP9
+    b) Oddìlili z videa zvukovou stopu ve formátu MP3.
+
+    c) Vytvoøili zkrácenou zvukovou ukázku dlouhou pøesnì 30 sekund s postupným nábìhem zvuku na zaèátku (efekt FadeIn) a zeslabením zvuku na konci (efekt FadeOut).  
